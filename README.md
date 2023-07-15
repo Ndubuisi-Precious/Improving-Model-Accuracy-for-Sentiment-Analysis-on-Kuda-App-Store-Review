@@ -1,2 +1,13 @@
 # Improving-Model-Accuracy-for-Sentiment-Analysis-on-Kuda-App-Store-Review
 Analysis Customer Sentiment from Kuda bank App Reviews on App Store using NLP Techniques, Neatext, NLTK, Scikit-learn and other important packages.
+
+Sentiment analysis plays a vital role in understanding customers' opinions and feedback, allowing businesses like Kuda Bank to gain valuable insights. By improving the accuracy of the sentiment analysis model, Kuda Bank can better gauge customer sentiment, identify areas of improvement, and enhance their overall user experience. The analysis explore various techniques, including data preprocessing, feature selection, data visualization, and model evaluation, with the objective of maximizing the accuracy of the sentiment analysis model.
+
+According to Bill Gates - "your most unhappy customers are your greatest sources of learning." Service/app reviews are efficient source of information or data for management to gain insight, know how their customers feel and make the right decision(s). There is this saying "happy customer drive company's growth." 
+It's important to note that Kuda Bank run entirely on internet accessible and connected mobile phones through their App with few physical offices, they are not entirely the only Micro-finance bank on that offer this service to Nigerians. Enjoy the ride, with me.
+
+Conclusion
+The performance analysis of the app owned by Kuda Bank reveals a slight imbalance between negative and positive feedback from users. While it is natural for any app to receive both positive and negative comments, the higher number of negative comments indicates areas that require attention and improvement.
+One notable aspect to consider is the lack of customer updates on their initial comments. This could be attributed to various reasons, such as users not being aware of the option to update their feedback or feeling that their input may not be valued. Encouraging users to revisit and update their comments can provide valuable insights for app developers and demonstrate responsiveness to user concerns.
+Additionally, the response strategy of the app developers on the app store should be scrutinized. Judicious and timely responses to user reviews are vital in building trust, addressing concerns, and demonstrating a commitment to user satisfaction. 
+To further improve the app's performance, it is essential for Kuda Bank and its developers to closely analyze user feedback and prioritize areas of improvement. By actively listening to user concerns, implementing necessary enhancements, and ensuring effective communication on the app store.
